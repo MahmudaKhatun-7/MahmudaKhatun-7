@@ -1,0 +1,21 @@
+Name,Latitude,Longitude,House Type,Water Source, Ph,Occupation,Per Capita Income,Family,   Salary
+Village 1,88.65573439,23.9369312,Brick building/Tinsheed,Tubewell,6.5,Farmer,2000,,20000
+Village 2,88.59921631,23.92252318,Brick building/Tinsheed/Brick Building,Tubewell,8,Farmer,2500,7,5000
+Village 3,89.65775981,23.76538923,Brick building/Tinsheed/Brick Building,Nearby River ,6,Bussinessman,5000,6,30000
+Village 4,89.60454962,23.65674138,Brick building/Tinsheed/Brick Building,Tubewell,6.9,Banker,2500,7,15000
+Village 5,88.75707903,23.60717968,Brick building/Tinsheed/Brick Building,Nearby River ,7.1,Farmer,3700,8,7000
+Village 6,90.66796514,23.55645269,Brick building/Tinsheed/Brick Building,Tubewell,7,Bussinessman,3000,7,8000
+Village 7,88.58266287,23.75776785,Brick building/Tinsheed/Brick Building,nearby River ,7.12,Banker,,4,   
+Village 8,89.62603137,23.69619362,Brick building/Tinsheed/Brick Building,Tubewell,7,Bussinessman,4500,7,35000
+Village 9,90.77364452,23.49681554,Brick building/Tinsheed/Brick Building,Nearby River ,6.5,Farmer,3500,6,18000
+Village 10,90.60173125,23.96778889,Brick building/Tinsheed/Brick Building,Tubewell,7,Vendor,5600,7,15000
+Village 11,90.66823287,23.08779228,Brick building/Tinsheed/Brick Building,Tubewell,6.5,Bussinessman,,7,   
+Village 12,90.69624055,23.89727627,Brick building/Tinsheed/Brick Building,Nearby River ,6,Farmer,8000,3,20000
+Village 13,90.66085903,23.02742202,Brick building/Tinsheed/Brick Building,Tubewell,7,Bussinessman,,7,   
+Village 14,88.81627207,23.64980501,Brick building/Tinsheed/Brick Building,Tubewell,6.9,Vendor,1200,7,5000
+Village 15,88.82481961,23.50496239,Brick building/Tinsheed/Brick Building,Tubewell,6.87,Farmer,1400,6,14000
+Village 16,90.64772237,23.6243981,Brick building/Tinsheed/Brick Building,Nearby River ,3.5,Vendor,,7,   
+Village 17,89.76338676,23.80830415,Brick building/Tinsheed/Brick Building,Tubewell,7,Bussinessman,4000,2,7000
+Village 18,89.82399821,23.89374909,Brick building/Tinsheed/Brick Building,Tubewell,5.5,Bussinessman,6000,7,26000
+Village 19,89.52115458,23.74004657,Brick building/Tinsheed/Brick Building,Nearby River ,4,Farmer,,9,   
+Village 20,89.74873649,23.95082549,Brick building/Tinsheed/Brick Building,Tubewell,7,Bussinessman,5000,7,500000
